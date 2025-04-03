@@ -17,10 +17,6 @@ Java Developer
 <a href="https://projectlombok.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lombok-colored.svg" width="36" height="36" alt="Lombok" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://maven.apache.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/maven-colored.svg" width="36" height="36" alt="Apache Maven" />
-</a>
-<a href="https://gradle.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gradle-colored.svg" width="36" height="36" alt="Gradle" />
-</a>
+<a href="https://maven.apache.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/maven-colored.svg" width="36" height="36" alt="Maven" /></a>
+<a href="https://gradle.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gradle-colored.svg" width="36" height="36" alt="Gradle" /></a>
 </p>
